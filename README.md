@@ -16,7 +16,7 @@ The project is organized into the following folders:
 1. **Prerequisites**: Ensure you have a compatible relational database management system (e.g., MySQL, PostgreSQL) installed on your system.
 2. **Table Creation**: Execute the following SQL commands to create the necessary tables in your database:
 
-### 1) Dept Table
+#### 1) Dept Table
 CREATE TABLE dept (
     d_name VARCHAR(255) NOT NULL,
     PRIMARY KEY (d_name)
